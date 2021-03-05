@@ -1,33 +1,22 @@
 # Update newest policy version/
-[Cookie-Editor](https://cookie-editor.cgagnier.ca/) is a browser extension/add-on that lets you efficiently create, edit and delete cookies for the current tab. Perfect for developing, quickly testing or even manually managing your cookies for your privacy.
+[Updates-newest-policy-vervion](https://Updates-newest-policy-vervion) is a browser that lets you efficiently updated version Apps on your Android,iOS,Mac & windows. Perfect for developing every newest version Apps, quickly click to install newest version Apps privacy.
 
 ## Description
-Cookie-Editor is designed to have a simple to use interface that let you do most standard cookie operations quickly. It is ideal for developing and testing web pages.
+Updates-newest-policy-version is designed on google to explore the Newest version default feature of Android & IOS  Click interface cookie update your Apps via quickly directly to the Store. It Also available in other platforms · Older versions · App specs · Related topics about Google · Free alternative apps · Explore Apps · Articles about Google web.
 
-You can easily create, edit and delete a cookie for the current page that you are visiting.
-There is also a handy button to mass delete all the cookies for the current page.
+Browse the world's  App and enjoy the Newest Apps version  experience 
 
-Cookie-Editor is available for Google Chrome, Firefox, Edge and Opera. It should be possible to install it on any webkit browser, but keep in mind that only the previous four browsers are officially supported.
+Updates newest version policy also available for Google Chrome, Firefox, Edge and Opera updated version .Browser officially supported.
 
-The Add-on is available also available on Firefox for Android for easy and convenient cookie manipulation on a mobile device.
+Easy and convenient by clicking the cookie to direct you to the lastest version Apps device.
 
-## Install on Google Chrome
-Find this extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm).
+## Install Google Chrome
+Find this extension on the [Chrome Web Store](https://Updates-newest-policy-vervion).
 
-## Install on Firefox
-Find this extension on the [Firefox Add-ons site](https://addons.mozilla.org/addon/cookie-editor?src=external-github-readme).
-
-## Install on Opera
-Find this extension on the [Opera Extensions site](https://addons.opera.com/en/extensions/details/cookie-editor-2/).
-
-## Install on Microsoft Edge
-Find this extension on the [Microsoft Store](https://www.microsoft.com/en-ca/p/cookie-editor/9pbbp0rcwzbc).
+## Install all Browsers 
 
 ## Feature Suggestions or Bug Reports
-To submit a feature suggestion or file a bug report, please [create a new issue here](https://github.com/Moustachauve/cookie-editor/issues).
+To submitew issue here](https://Updates-newest-policy-vervion
 
-## How to build
-
-1. Run npm install to make sure you have all the required packages installed.
-2. Run the command `grunt`
+1. install to make sure you have all the required packages installed.
 3. All the files are in the `dist` directory created
